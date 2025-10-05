@@ -8,10 +8,7 @@ Badges: React · TypeScript · Vite · Google Gemini
 
 ## Demo
 
-<video controls width="720" preload="metadata">
-  <source src="./EL5.mp4" type="video/mp4">
-  Your browser does not support the video tag. You can download the demo: [EL5.mp4](./EL5.mp4)
-</video>
+https://github.com/user-attachments/assets/d0e61d75-d08f-4d8c-827a-6069c353ce35
 
 
 ---
