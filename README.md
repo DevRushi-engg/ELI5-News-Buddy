@@ -59,7 +59,7 @@ Available scripts
 - (Optional) Firebase for auth & data
 - Web Speech API for TTS
 
-## Project Structure (high level)
+## Project Structure
 - src/
   - components/ — UI components (ArticleCard, AudioPlayer, LiveChat, QuizComponent, etc.)
   - services/ — Gemini and backend integrations
