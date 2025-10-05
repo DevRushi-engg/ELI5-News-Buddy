@@ -10,7 +10,7 @@ Badges: React · TypeScript · Vite · Google Gemini
 
 https://github.com/user-attachments/assets/d0e61d75-d08f-4d8c-827a-6069c353ce35
 
-
+YOUTBUE LINK: https://youtu.be/hcD0xsGKGz0?si=5c_j0_EXLksBWUGS
 ---
 
 ## Key Features
