@@ -72,6 +72,7 @@ Available scripts
 
 ## Contact
 Developer: Rushikesh Gurav — https://github.com/DevRushi-engg
-Developer: Nitisha NigNaigaonkar - https://github.com/Nitisha-N
+
+Developer: Nitisha Naigaonkar - https://github.com/Nitisha-N
 
 <!-- End of README -->
