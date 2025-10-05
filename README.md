@@ -59,11 +59,6 @@ Available scripts
   - data/ — sample or mock article data
   - App.tsx, index.tsx, types.ts, constants.ts
 
-## Deployment
-- Ensure GEMINI_API_KEY is set in your hosting environment.
-- Recommended platforms: Vercel, Netlify, or any static host that supports environment variables.
-- Build and deploy the `dist/` output from `npm run build`.
-
 ## Contributing
 - Fork the repo
 - Create a feature branch
