@@ -73,9 +73,6 @@ Available scripts
 - Open a pull request with a clear description and tests (if applicable)
 - Keep changes focused and scoped
 
-## License
-MIT — see the LICENSE file.
-
 ## Contact
 Developer: Rushikesh Gurav — https://github.com/DevRushi-engg
 Developer: Nitisha NigNaigaonkar - https://github.com/Nitisha-N
