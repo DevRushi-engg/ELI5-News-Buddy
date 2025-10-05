@@ -8,17 +8,11 @@ Badges: React · TypeScript · Vite · Google Gemini
 
 ## Demo
 
-Watch the project demo on YouTube:
+<video controls width="720" preload="metadata">
+  <source src="./EL5.mp4" type="video/mp4">
+  Your browser does not support the video tag. You can download the demo: [EL5.mp4](./EL5.mp4)
+</video>
 
-[![Watch the demo](https://img.youtube.com/vi/hcD0xsGKGz0/hqdefault.jpg)](https://youtu.be/hcD0xsGKGz0)
-
-<!-- Platforms that support HTML embeds will render the iframe below.
-     Note: GitHub's README rendering strips iframes; use the thumbnail link above on GitHub. -->
-<iframe width="720" height="405" src="https://www.youtube.com/embed/hcD0xsGKGz0" title="ELI5 News Buddy demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Notes:
-- If the iframe does not appear (e.g., on GitHub), click the thumbnail or this link to open the demo: https://youtu.be/hcD0xsGKGz0
-- For a small repo size, prefer linking to YouTube rather than committing large video files.
 
 ---
 
